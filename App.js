@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>aplicativo- 2 bimestre. nomes: Bruno e carmem</Text>
+      <Text>Bruno cornoo </Text>
       <StatusBar style="auto" />
     </View>
   );
